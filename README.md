@@ -1,2 +1,2 @@
 # practice
-for merge conflict understanding
+for merge conflict understanding in the zemoso repo
